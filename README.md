@@ -1,3 +1,5 @@
+## REVIEWERS PLEASE NOTE:  I'VE PUT THE R FILES AND THE PNG FILES IN THE figures FOLDER. THANKS.
+
 ## Introduction
 
 This assignment uses data from
